@@ -52,3 +52,7 @@
 
 ## 🔥 Get Started
 Extract, configure, and run **MXChecker** today to quickly validate emails with ease!
+
+## 📢 Join Our Community
+For more updates and discussions, join our [Telegram channel](https://t.me/mirea).
+
