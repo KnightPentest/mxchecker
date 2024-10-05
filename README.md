@@ -22,9 +22,8 @@
 3. Run the command:
    ```bash
    ./mxchecker
-![image](https://github.com/user-attachments/assets/ea24ffc1-cfe6-4436-a4dc-55beae2b2aae)
-
    ```
+   ![Linux/macOS Usage](https://github.com/user-attachments/assets/ea24ffc1-cfe6-4436-a4dc-55beae2b2aae)
 4. Check the logs generated in the same folder as `mxchecker`.
 
 ### 🪟 On Windows
@@ -37,8 +36,7 @@
    ```cmd
    cd C:\Users\username\Desktop\checker
    ```
-![image](https://github.com/user-attachments/assets/a0f00de4-dc9b-4f08-bb82-067f1bf61f85)
-
+   ![Windows Usage](https://github.com/user-attachments/assets/a0f00de4-dc9b-4f08-bb82-067f1bf61f85)
 4. Run the checker:
    ```cmd
    mxchecker.exe
@@ -47,11 +45,10 @@
 
 ## 🛠️ Configuration
 - Modify `.env` to control worker threads and specify input email files.
-- Ensure all required files (.env, user agents) are in the same folder as the binary.
+- Ensure all required files (`.env`, user agents) are in the same folder as the binary.
 
 ## 🤝 Crafted by KnightPentest
 **KnightPentest** is not just a team; it's a brotherhood of elite cybersecurity experts. **MXChecker** reflects our commitment to creating fast, reliable, and easy-to-use tools for the cybersecurity community.
 
 ## 🔥 Get Started
 Extract, configure, and run **MXChecker** today to quickly validate emails with ease!
-
